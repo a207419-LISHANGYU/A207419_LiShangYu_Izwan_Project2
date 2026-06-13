@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596563003861",
+    "project_id": "stepbloom-35872",
+    "storage_bucket": "stepbloom-35872.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596563003861:android:fe9c3acca27cd30c19555c",
+        "android_client_info": {
+          "package_name": "com.example.a207419_lishangyu_izwan_project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAQ3fLK04YQ_U4aV7Y7uXtdneFu7a974M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
